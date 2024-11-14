@@ -21,11 +21,6 @@
    ```bash
    npm install
 
-7. Create a .env file in the root of the project and add your MongoDB connection string:
-   
-   ```bash
-   mongodb+srv://dbelish:dbe9571@cluster0.hoeigjj.mongodb.net/
-
 8. Start the development server:
    
    ```bash
